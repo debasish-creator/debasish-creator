@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Hackodisha](www.hackodisha.xyz)
+- 🔭 I’m currently working on [Hackodisha]
 
 - 🌱 I’m currently learning **three.js**
 
